@@ -6,7 +6,7 @@ I'm a passionate **Data Analyst** with experience in **Excel, SQL, Power BI, Tab
 - 🔭 I’m currently working on **data analysis projects to enhance my skills**
 - 🌱 I’m expanding my knowledge in **advanced analytics and machine learning**
 - 💬 Let's talk about **data visualization, SQL queries, and business intelligence**
-- 📫 Reach me at: **[Pranavk543@gmail.com or LinkedIn]**
+- 📫 Reach me at: **Pranavk543@gmail.com**
 - ⚡ Fun fact: **I enjoy finding patterns in data just like solving puzzles!**
 
 ## 🛠 Tech Stack
@@ -21,7 +21,7 @@ I'm a passionate **Data Analyst** with experience in **Excel, SQL, Power BI, Tab
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-kumar-yelijala-93589b357/))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
